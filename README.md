@@ -15,7 +15,7 @@ or directly download as ZIP file.
 
 In **Basic HTML and javaScript 1** directory, there are serialized code snippets of Html, css and js files respective to the topics.
 
-In **HTML Assignments** directory, you have assignments to practice the topics which have been covered.
+In **HTML Assignments** directory, there are assignments to practice the topics which have been covered.
 
 In **Images** directory there are util images to use in your html code.
 
